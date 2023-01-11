@@ -2,7 +2,7 @@ package v1alpha1
 
 import "encoding/json"
 
-// Manifest provides a schema for UOR Collection.
+// Manifest provides a schema for Emporous Collection.
 type Manifest struct {
 	// MediaType is the media type of the object this schema refers to.
 	MediaType string `json:"mediaType"`

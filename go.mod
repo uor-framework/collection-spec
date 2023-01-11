@@ -1,4 +1,4 @@
-module github.com/uor-framework/collection-spec
+module github.com/emporous/collection-spec
 
 go 1.18
 
